@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  GoPlant.me
+
+  Created by Ljubo Maricevic on 18/02/2020.
+  Copyright © 2019 Ljubo Maricevic. All rights reserved.
+*/
+
+"check_internet" = "Please check your internet connection.";
+
+//MARK: ERORRS
+"E999" = "Error. Please try again.";
